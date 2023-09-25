@@ -1,0 +1,23 @@
+{
+  "name": "generatetenant",
+  "version": "1.0.0",
+  "description": "Generate as many tenants as you need.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "keywords": [
+    "script",
+    "octosoft",
+    "octoverse",
+    "generate",
+    "data"
+  ],
+  "author": "Oluwatobi Balogun",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.1.0",
+    "args-parser": "^1.3.0"
+  }
+}
